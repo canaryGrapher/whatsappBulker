@@ -30,3 +30,7 @@ Using  this tool is pretty easy. There are few requirement you are required to m
 ```python whatsappAPI.py```
 4. Now, run another python script named **automateMessage.py** using the command ```python automateMessage.py```. Your default web browser will automatically open a new [WhatsApp](https://web.whatsapp.com) tab. Proceed with the steps and when the message is sent, close the tab.
 5. Press **_Enter_** twice on the keyboard in the terminal window. This will have open another tab in the Browser. You'll have to do this step after every message is sent. 
+
+
+### Note for developers
+If you have experience with selenium, try automating the process of clicking the buttons automated so the there is close to zero human input in this process. Thanks :)✌😊
