@@ -33,4 +33,4 @@ Using  this tool is pretty easy. There are few requirement you are required to m
 
 
 ### Note for developers
-If you have experience with selenium, try automating the process of clicking the buttons automated so the there is close to zero human input in this process. Thanks :)✌😊
+If you have experience with selenium, try automating the process of clicking the buttons automated so the there is close to zero human input in this process. Thanks :)
