@@ -1,2 +1,5 @@
 # whatsappBulker
-When you want to send messages to a lot of people on WhatsApp, use this script to automate that task for you. Best part is that you do not have to save any number on your smartphone,
+This tool makes it easy to send bulk messages to a lot of people on WhatsApp without the need to save all the numbers on your smartphone
+
+## How to use this tool?
+Using  this tool is pretty easy. 
