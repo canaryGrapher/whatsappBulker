@@ -1,0 +1,24 @@
+https://api.whatsapp.com/send?phone=919000822514&text=Hello! This is a reminder message for an internship that you applied for, at the Innovation Center, MIT as a web developer/designer and with other proficient skills. Please be ready at 6:30pm tomorrow, i.e., Saturday at Co-working space, First Floor, IC.
+
+https://api.whatsapp.com/send?phone=919871976530&text=Hello! This is a reminder message for an internship that you applied for, at the Innovation Center, MIT as a web developer/designer and with other proficient skills. Please be ready at 6:30pm tomorrow, i.e., Saturday at Co-working space, First Floor, IC.
+
+https://api.whatsapp.com/send?phone=919682327030&text=Hello! This is a reminder message for an internship that you applied for, at the Innovation Center, MIT as a web developer/designer and with other proficient skills. Please be ready at 6:30pm tomorrow, i.e., Saturday at Co-working space, First Floor, IC.
+
+https://api.whatsapp.com/send?phone=919815840767&text=Hello! This is a reminder message for an internship that you applied for, at the Innovation Center, MIT as a web developer/designer and with other proficient skills. Please be ready at 6:30pm tomorrow, i.e., Saturday at Co-working space, First Floor, IC.
+
+https://api.whatsapp.com/send?phone=918986645313&text=Hello! This is a reminder message for an internship that you applied for, at the Innovation Center, MIT as a web developer/designer and with other proficient skills. Please be ready at 6:30pm tomorrow, i.e., Saturday at Co-working space, First Floor, IC.
+
+https://api.whatsapp.com/send?phone=919448304532&text=Hello! This is a reminder message for an internship that you applied for, at the Innovation Center, MIT as a web developer/designer and with other proficient skills. Please be ready at 6:30pm tomorrow, i.e., Saturday at Co-working space, First Floor, IC.
+
+https://api.whatsapp.com/send?phone=919351496916&text=Hello! This is a reminder message for an internship that you applied for, at the Innovation Center, MIT as a web developer/designer and with other proficient skills. Please be ready at 6:30pm tomorrow, i.e., Saturday at Co-working space, First Floor, IC.
+
+https://api.whatsapp.com/send?phone=918976427770&text=Hello! This is a reminder message for an internship that you applied for, at the Innovation Center, MIT as a web developer/designer and with other proficient skills. Please be ready at 6:30pm tomorrow, i.e., Saturday at Co-working space, First Floor, IC.
+
+https://api.whatsapp.com/send?phone=916354795518&text=Hello! This is a reminder message for an internship that you applied for, at the Innovation Center, MIT as a web developer/designer and with other proficient skills. Please be ready at 6:30pm tomorrow, i.e., Saturday at Co-working space, First Floor, IC.
+
+https://api.whatsapp.com/send?phone=918851159227&text=Hello! This is a reminder message for an internship that you applied for, at the Innovation Center, MIT as a web developer/designer and with other proficient skills. Please be ready at 6:30pm tomorrow, i.e., Saturday at Co-working space, First Floor, IC.
+
+https://api.whatsapp.com/send?phone=918431875932&text=Hello! This is a reminder message for an internship that you applied for, at the Innovation Center, MIT as a web developer/designer and with other proficient skills. Please be ready at 6:30pm tomorrow, i.e., Saturday at Co-working space, First Floor, IC.
+
+https://api.whatsapp.com/send?phone=918100456149&text=Hello! This is a reminder message for an internship that you applied for, at the Innovation Center, MIT as a web developer/designer and with other proficient skills. Please be ready at 6:30pm tomorrow, i.e., Saturday at Co-working space, First Floor, IC.
+
