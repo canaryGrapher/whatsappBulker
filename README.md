@@ -13,7 +13,7 @@ Using  this tool is pretty easy. There are few requirement you are required to m
 3. Now fire up your Command Prompt and navigate to the folder where this file is saved. After navigating there, run the **whatsappAPI.py** script. Also, make sure that no web.whatsapp.com tab is open.
 ```python whatsappAPI.py```
 4. Now, run another python script named **automateMessage.py** using the command ```python automateMessage.py```. Your default web browser will automatically open a new [WhatsApp](https://web.whatsapp.com) tab. Proceed with the steps and when the message is sent, close the tab.
-5. Press **_Enter_** twice on the keyboard in the terminal window. This will have open another tab in the Browser. You'll have to do this step after every message is sent. 
+5. Press **_Enter_** twice on the keyboard in the command prompt window. This will have open another tab in the Browser. You'll have to do this step after every message is sent. 
 
 ## Guide for Linux users
 1. If python is not already installed, you can install it by using the ```sudo apt-get install python``` command in the terminal. Enter your password and let it install.
@@ -33,4 +33,4 @@ Using  this tool is pretty easy. There are few requirement you are required to m
 
 
 ### Note for developers
-If you have experience with selenium, try automating the process of clicking the buttons automated so the there is close to zero human input in this process. Thanks :)
+If you have experience with selenium, try automating the process of clicking the buttons automated so the there is close to zero human input in this process. Your contribution will be appreciated and recognized. Thanks :)
