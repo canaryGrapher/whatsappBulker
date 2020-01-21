@@ -1,2 +1,4 @@
-https://api.whatsapp.com/send?phone=+919380888253&text=your_message_here.
-https://api.whatsapp.com/send?phone=+91966351644&text=your_message_here.
+https://api.whatsapp.com/send?phone=+917506866138&text=Hello automation
+https://api.whatsapp.com/send?phone=+918900144615&text=Hello automation
+https://api.whatsapp.com/send?phone=+918073203511&text=Hello automation
+https://api.whatsapp.com/send?phone=+91938088825&text=Hello automation
